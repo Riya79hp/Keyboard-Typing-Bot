@@ -16,7 +16,7 @@ NLP Libraries: Python libraries such as SpeechRecognition for voice command proc
 Hardware Components: Arduino board, servo motors, and a mechanical arm.
 Installation
 Clone the Repository:
-git clone https://github.com/yourusername/voice-controlled-mechanical-typing.git
+git clone https://github.com/Riya79hp/Keyboard-Typing-Bot.git
 Setup Python Environment:
 Install necessary Python libraries:
 
